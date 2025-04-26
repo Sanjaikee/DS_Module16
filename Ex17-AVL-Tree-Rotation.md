@@ -55,8 +55,7 @@ node * rotateright(node *x)
 
 ## Output:
 
-![Uploading image.png…]()
-
+![output](image-1.png)
 
 ## Result:
 Thus, the function to perform right rotation in an AVL Tree is implemented successfully.
